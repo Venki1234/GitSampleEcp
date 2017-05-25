@@ -6,6 +6,8 @@ public class GitSample {
 		{
 			System.out.println("Git Venki" +i);
 			System.out.println("Venki you are done with this");
+			
+			System.out.println("This is third commit");
 		}
 	}
 }
